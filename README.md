@@ -10,8 +10,7 @@ The project includes dataset exploration, annotation analysis, model training an
 -  [View Project Notebook](notebooks/Fire_Smoke_Object_Detection_Final.ipynb)
 -  [Trained YOLOv11 Model](models/yolov11n_best.pt)
 -  [Streamlit Application Code](app.py)
--  Live demo: (https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2FeAeQher8&urlhash=awfG&mt=LHGHD5pxVDIs5T_c9zolbgmbhIl96P7m-n_pXW6OYcA7_mfWC-zToaunaVD0w-tFCe_eHB4d_VQwLpsTJnXNzKAw32N1ygvlFoJaz4k8uqCaia3cSOpXEdpsoA&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6MuIl1lfQsCkaAwK9hFZSg%3D%3D)))
-](https://fire-detection-project-nmwgog8wrwnmuejgxsqyxj.streamlit.app/)
+-  Live demo: (https://fire-detection-project-nmwgog8wrwnmuejgxsqyxj.streamlit.app/)
 ##  Project Overview
 
 Early detection of fire and smoke can help reduce damage and improve safety.
