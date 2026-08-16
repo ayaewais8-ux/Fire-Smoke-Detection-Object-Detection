@@ -10,7 +10,7 @@ The project includes dataset exploration, annotation analysis, model training an
 -  [View Project Notebook](notebooks/Fire_Smoke_Object_Detection_Final.ipynb)
 -  [Trained YOLOv11 Model](models/yolov11n_best.pt)
 -  [Streamlit Application Code](app.py)
--  [Live Demo](https://fire-detection-project-nmwgog8wrwnmuejgsx9xzj.streamlit.app/)
+-  [Live Demo]([https://fire-detection-project-nmwgog8wrwnmuejgsx9xzj.streamlit.app/](https://fire-detection-project-nmwgog8wrwnmuejgxsqyxj.streamlit.app/))
 
 ##  Project Overview
 
